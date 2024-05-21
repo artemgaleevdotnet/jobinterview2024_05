@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "altium.filesorter.cli": {
+      "commandName": "Project",
+      "commandLineArgs": "altium-test sort --input-file-path D:\\bigfile.txt --output-file-path D:\\sortedFile.txt"
+    }
+  }
+}
